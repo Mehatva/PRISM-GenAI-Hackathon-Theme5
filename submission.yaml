@@ -1,4 +1,4 @@
-team: "your-team-name"
+team: "Thapar_TheMPeople_5"
 entry_point: "agent.agent:ParticipantAgent"   # module:Class
 python: "3.12"                                 # 3.10–3.12
 requirements: []                               # extra pip packages, public PyPI only
